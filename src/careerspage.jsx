@@ -4,8 +4,7 @@ import { defaultLayoutPlugin } from '@react-pdf-viewer/default-layout';
 import { Viewer } from '@react-pdf-viewer/core';
 import muneerpdf from './assets/muneer@gmail.com.pdf'
 import { Link } from 'react-router-dom';
-
-import Footer from './components/Navbar/footer';
+import Footer from './components/Navbar/Footer'
 import '@react-pdf-viewer/core/lib/styles/index.css';
 import '@react-pdf-viewer/default-layout/lib/styles/index.css';
 import careersimage from './assets/aboutimage1.jpeg'
