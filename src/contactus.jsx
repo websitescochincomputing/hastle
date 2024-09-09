@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar/Navbar';
-import Footer from './components/Navbar/footer';
+import Footer from './components/Navbar/Footer';
 import { Link } from 'react-router-dom';
 import ContactSection from './components/Navbar/contact';
 import logo from './assets/logo.jpeg'
