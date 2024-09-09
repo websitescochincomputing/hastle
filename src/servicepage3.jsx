@@ -14,7 +14,7 @@ import servicelist6 from './assets/absnew.jpeg'
 import nutritionimage from './assets/nutritionimage.jpeg'
 import overnightcare from './assets/overnightcare.jpeg'
 import overnights from './assets/overnights.jpeg'
-import welbeing from './assets/Wellbeing.jpg'
+import welbeing from './assets/wellbeing.jpg'
 import Navbar from './components/Navbar/Navbar';
 import Footer from './components/Navbar/footer';
 import Testimonial from './components/Navbar/Testimonial';
