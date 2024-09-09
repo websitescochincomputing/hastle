@@ -7,12 +7,12 @@ import Banner from './components/Navbar/bannner';
 import Subscription from './components/Navbar/subscription';
 import Testimonial from './components/Navbar/Testimonial';
 import Footer from './components/Navbar/Footer';
-import AnimatedContainer from './components/Navbar/HoverTest';
-import ScrollableContainer from './components/Navbar/HoverTestMobile';
+import AnimatedContainer from './components/Navbar/hovertest';
+import ScrollableContainer from './components/Navbar/hovertestmobile';
 import Blog from './components/Navbar/blog';
 import ContactSection from './components/Navbar/contact';
 import Training from './components/Navbar/trainingcourosal';
-import AnimatedContainerMob from './components/Navbar/HoverTestMobile';
+import AnimatedContainerMob from './components/Navbar/hovertestmobile';
 import AnimatedContainerTab from './components/Navbar/hoveresttablets';
 
 function Homepage() {
