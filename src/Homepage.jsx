@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Navbar/hero';
 import Product from './components/Navbar/about';
-import TopProducts from './components/Navbar/TopProducts';
+import TopProducts from './components/Navbar/topproducts';
 import Banner from './components/Navbar/bannner';
 import Subscription from './components/Navbar/Subscription';
 import Testimonial from './components/Navbar/Testimonial';
