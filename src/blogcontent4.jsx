@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar/Navbar';
 import { Link } from 'react-router-dom';
-import Footer from './components/Navbar/footer';
+import Footer from './components/Navbar/Footer';
 import blog1 from './assets/blog1.jpeg';
 import blog2 from './assets/blog2.jpeg';
 import blog3 from './assets/blog3.jpeg';
@@ -17,7 +17,7 @@ import Blogpage4main from './assets/blog4pagemain.jpg'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-import Emailsubscription from './components/Navbar/emailsubscription';
+import Emailsubscription from './components/Navbar/Emailsubscription';
 
 function Blogcontent4() {
 
